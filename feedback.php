@@ -130,7 +130,7 @@
 
     
 
-    <div class="container">
+     <div class="container">
         <div class="media-container-row content text-white">
             <div class="col-12 col-md-3">
                 <div class="media-wrap">
@@ -143,14 +143,16 @@
                 <h5 class="pb-3">
                     Address
                 </h5>
-                <p class="mbr-text">Badlapur Jaunpur&nbsp;<br>Uttar Pradesh, &nbsp;222175</p>
+                <p class="mbr-text">Varanasi &nbsp;<br>Uttar Pradesh, &nbsp;221010</p>
             </div>
             <div class="col-12 col-md-3 mbr-fonts-style display-7">
                 <h5 class="pb-3">
                     Contacts Us</h5>
                 <p class="mbr-text">
-                    Email: suyashtripathi98@gmail.com
-                    <br>Phone: +91 &nbsp; 8574266136&nbsp;<br>Fax: +91 &nbsp; 9889071916</p>
+				    Name:<br>
+            Vandana Gupta
+                    </p>
+					
             </div>
             <div class="col-12 col-md-3 mbr-fonts-style display-7">
                 <h5 class="pb-3">
@@ -169,21 +171,12 @@
             <div class="media-container-row mbr-white">
                 <div class="col-sm-6 copyright">
                     <p class="mbr-text mbr-fonts-style display-7">
-                        © Copyright 2019 Noteswala - All Rights Reserved
+                        © Copyright 2020 Noteswala - All Rights Reserved
                     </p>
                 </div>
-                <div class="col-md-6">
-                    <div class="social-list align-right">
-                        <div class="soc-item">
-                            <a href="https://twitter.com/tripathisuyash" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon"></span>
-                            </a>
-                        </div>
-                        <div class="soc-item">
-                            <a href="https://www.facebook.com/suyash.tripathi.5070" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
-                            </a>
-                        </div>
+                
+                        
+                        
                         
                         
                         
